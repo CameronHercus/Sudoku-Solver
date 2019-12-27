@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1097d5f2-5697-4936-9886-5fbda87933b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VXKwHVakRFRJJIAKpgvoVB7qRR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.backtracking_solver">
+    <configuration name="Backtracking-Solver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sudoku-Solver" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backtracking-Solver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="backtracking_solver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sudoku-Solver" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backtracking_solver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.backtracking_solver" />
+        <item itemvalue="Python.Backtracking-Solver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1097d5f2-5697-4936-9886-5fbda87933b3" name="Default Changelist" comment="" />
+      <created>1577394236033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577394236033</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1900" height="366" key="GridCell.Tab.0.bottom" timestamp="1577411849144">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1900" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577411849144" />
+    <state width="1900" height="366" key="GridCell.Tab.0.center" timestamp="1577411849144">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1900" height="366" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577411849144" />
+    <state width="1900" height="366" key="GridCell.Tab.0.left" timestamp="1577411849144">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1900" height="366" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577411849144" />
+    <state width="1900" height="366" key="GridCell.Tab.0.right" timestamp="1577411849144">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1900" height="366" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577411849144" />
+    <state width="1900" height="364" key="GridCell.Tab.1.bottom" timestamp="1577409804690">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1900" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577409804690" />
+    <state width="1900" height="364" key="GridCell.Tab.1.center" timestamp="1577409804690">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1900" height="364" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577409804690" />
+    <state width="1900" height="364" key="GridCell.Tab.1.left" timestamp="1577409804690">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1900" height="364" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577409804690" />
+    <state width="1900" height="364" key="GridCell.Tab.1.right" timestamp="1577409804690">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1900" height="364" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577409804690" />
+    <state x="491" y="184" key="SettingsEditor" timestamp="1577408594481">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="491" y="184" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577408594481" />
+    <state x="728" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577408464933">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="728" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577408464933" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1577396987284">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577396987284" />
+  </component>
+</project>
