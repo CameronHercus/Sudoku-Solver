@@ -25,31 +25,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codewarsprojects/Duplicate-encoder.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_sudoku_solver.py">
-    <configuration name="Backtracking-Solver" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Sudoku-Solver" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backtracking-Solver.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.valitdate_solution">
     <configuration name="Duplicate-encoder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sudoku-Solver" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,6 +92,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="valitdate_solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sudoku-Solver" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/valitdate_solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in test_sudoku_solver.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Sudoku-Solver" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.valitdate_solution" />
         <item itemvalue="Python tests.Unittests in test_sudoku_solver.py" />
         <item itemvalue="Python.sudoku_solver" />
         <item itemvalue="Python.Duplicate-encoder" />
         <item itemvalue="Python.backtracking_solver" />
-        <item itemvalue="Python.Backtracking-Solver" />
       </list>
     </recent_temporary>
   </component>
@@ -167,30 +167,31 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="200" width="816" height="727" key="#Intentions/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577501144601" />
-    <state x="740" y="296" key="FileChooserDialogImpl" timestamp="1577514544893">
+    <state x="740" y="296" key="FileChooserDialogImpl" timestamp="1577939968832">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="296" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577514544893" />
-    <state width="1900" height="236" key="GridCell.Tab.0.bottom" timestamp="1577841674456">
+    <state x="740" y="296" key="FileChooserDialogImpl/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577939968832" />
+    <state width="569" height="952" key="GridCell.Tab.0.bottom" timestamp="1578359808438">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1900" height="364" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577482217098" />
-    <state width="1900" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577841674456" />
-    <state width="1900" height="236" key="GridCell.Tab.0.center" timestamp="1577841674456">
+    <state width="569" height="952" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578359808438" />
+    <state width="569" height="952" key="GridCell.Tab.0.center" timestamp="1578359808438">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1900" height="364" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577482217098" />
-    <state width="1900" height="236" key="GridCell.Tab.0.center/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577841674456" />
-    <state width="1900" height="236" key="GridCell.Tab.0.left" timestamp="1577841674456">
+    <state width="569" height="952" key="GridCell.Tab.0.center/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578359808438" />
+    <state width="569" height="952" key="GridCell.Tab.0.left" timestamp="1578359808438">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1900" height="364" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577482217098" />
-    <state width="1900" height="236" key="GridCell.Tab.0.left/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577841674456" />
-    <state width="1900" height="236" key="GridCell.Tab.0.right" timestamp="1577841674456">
+    <state width="569" height="952" key="GridCell.Tab.0.left/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578359808438" />
+    <state width="569" height="952" key="GridCell.Tab.0.right" timestamp="1578359808438">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1900" height="364" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577482217098" />
-    <state width="1900" height="236" key="GridCell.Tab.0.right/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577841674456" />
+    <state width="569" height="952" key="GridCell.Tab.0.right/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578359808438" />
     <state width="1900" height="364" key="GridCell.Tab.1.bottom" timestamp="1577840811699">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -221,9 +222,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="728" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577408464933" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1577481900662">
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1578346690003">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1577481900662" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.50.1280.1024/-1920.0.1920.1080@0.0.1920.1080" timestamp="1578346690003" />
   </component>
 </project>
